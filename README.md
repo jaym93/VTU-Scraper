@@ -1,5 +1,5 @@
 # VTU-Scraper
-### __An easy tool to extract your students' results from results.vtu.ac.in to your database__
+### _An easy tool to extract your students' results from results.vtu.ac.in to your database_
 
 ## The audience
 This tool is written with colleges in mind, because we noticed our lab guy one day toilng long hours copy-pasting every person's result into a spreadsheet. "BeautifulSoup",we thought. And the process became easier, the lab guy could spend time on life than in front of a computer.
