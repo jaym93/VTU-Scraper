@@ -1,5 +1,5 @@
 # VTU-Scraper
-### An easy tool to extract your students' results from results.vtu.ac.in to your database
+### __An easy tool to extract your students' results from results.vtu.ac.in to your database__
 
 ## The audience
 This tool is written with colleges in mind, because we noticed our lab guy one day toilng long hours copy-pasting every person's result into a spreadsheet. "BeautifulSoup",we thought. And the process became easier, the lab guy could spend time on life than in front of a computer.
@@ -10,5 +10,6 @@ A simple database schema, and Python 3 code to pull the results of a set of USNs
 ## In future...
 This might evolve into a full fledged results retrieval and analysis system, keep an eye out, feel free to contribute!
 
-Varun Kaustubh
+Varun Kaustubh,
+
 Jayanth M
